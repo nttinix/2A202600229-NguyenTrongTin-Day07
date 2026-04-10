@@ -1,6 +1,6 @@
 # Báo Cáo Lab 7: Embedding & Vector Store
 
-**Họ tên:** [Tên thành viên 2]
+**Họ tên:** Nguyễn Trọng Tín
 **Nhóm:** 68
 **Ngày:** 10/04/2026
 
